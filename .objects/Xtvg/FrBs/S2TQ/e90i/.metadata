@@ -1,0 +1,16 @@
+﻿{
+  "Id": "e90iqIWXkESwxhoD_Dl-uQ",
+  "Reference": "vypFnnSxIEW-ivtHu0Ygzw/e90iqIWXkESwxhoD_Dl-uQ",
+  "ParentRef": "vypFnnSxIEW-ivtHu0Ygzw/S2TQVyKJaky0pRAVWpWZWg",
+  "Name": "FacebookShare",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-02-24T08:39:47.5358314Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-24T08:40:00.0911494Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

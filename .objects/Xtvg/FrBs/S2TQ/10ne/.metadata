@@ -1,0 +1,16 @@
+﻿{
+  "Id": "10neVFjDW024skXLCRKgxw",
+  "Reference": "vypFnnSxIEW-ivtHu0Ygzw/10neVFjDW024skXLCRKgxw",
+  "ParentRef": "vypFnnSxIEW-ivtHu0Ygzw/S2TQVyKJaky0pRAVWpWZWg",
+  "Name": "TwitterShare",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-02-24T08:28:46.8054573Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-24T08:40:51.4203601Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

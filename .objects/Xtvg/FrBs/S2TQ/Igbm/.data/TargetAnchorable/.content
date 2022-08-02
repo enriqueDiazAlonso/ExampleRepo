@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uipathhq.sprinklr.com/content/ADVOCACY_205_620e476630f6bc6f9eba4ce0" ContentHash="c6zShy3bkUmlnmn-KShetQ" DesignTimeRectangle="1816, 676, 73, 23" ElementType="Text" FriendlyName="'Compartir'" FullSelectorArgument="&lt;webctrl aaname='Compartir' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' parentid='root' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Compartir' type='' parentid='root' tag='DIV' check:text='Compartir' /&gt;" Guid="6a32dec3-1da8-435d-82ab-a92783e5eadb" Reference="vypFnnSxIEW-ivtHu0Ygzw/IgbmM06xTUuLCrGIPsJ9yw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath HQ' /&gt;" SearchSteps="Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1346, 96, 234, 23" ElementType="Text" FriendlyName="'Detalles de'" FullSelectorArgument="&lt;webctrl aaname='Detalles de la publicación' parentid='root' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Detalles de la publicación' parentid='root' tag='DIV' type='' check:text='Detalles de la publicación' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1OSfYZxBjekmTlNwa845AeA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0--j5dxP7FEq4sTMYishiSQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="1906aecbf5384870f3a361d16a80e3ab.png" xmlns="">0pLKi0RC88EmZV2utRvuaTA</imageRef>
+</TargetAnchorable>

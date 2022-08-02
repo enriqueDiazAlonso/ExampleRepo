@@ -1,0 +1,12 @@
+﻿{
+  "Id": "S2TQVyKJaky0pRAVWpWZWg",
+  "Reference": "vypFnnSxIEW-ivtHu0Ygzw/S2TQVyKJaky0pRAVWpWZWg",
+  "ParentRef": "vypFnnSxIEW-ivtHu0Ygzw/FrBst0J0EEOt7XabifdYnA",
+  "Name": "Chrome: UiPath HQ",
+  "Type": "Screen",
+  "Created": "2022-02-24T08:24:58.8354443Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-24T08:24:58.8354443Z"
+}

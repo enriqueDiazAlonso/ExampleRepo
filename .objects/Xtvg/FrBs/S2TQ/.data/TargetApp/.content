@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="pGh7pQSiikGjDt2mmmLu2A" Selector="&lt;html app='chrome.exe' title='UiPath HQ'/&gt;" Url="https://uipathhq.sprinklr.com/home" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0PJt82XNoNkWIKLLVTUDFsw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8413a85a26f264de6bc0994e75b848d4.png" xmlns="">0gHY3HQCm10-aznboCP3BSg</imageRef>
+</TargetApp>

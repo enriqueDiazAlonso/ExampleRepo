@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uipathhq.sprinklr.com/share/ADVOCACY_205_620bc894c2e0bc1503e08b13?shareType=SHARE" ContentHash="uAv67PgGG0Kmuz6BoPLBMQ" DesignTimeRectangle="1147, 406, 20, 22" ElementType="Text" FriendlyName="''" FullSelectorArgument="&lt;webctrl aaname='' parentid='root' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='' parentid='root' tag='DIV' type='' check:text='' /&gt;" Guid="03870262-54bc-4fa5-a85c-dd700b8977d1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath HQ' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0Q43mEymlgk6YwwTDSzdUnQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f78dc4ee9312f3e472fd5b2408538122.png" xmlns="">0KkFhcjTAok6Du0HADAs_cA</imageRef>
+</TargetAnchorable>

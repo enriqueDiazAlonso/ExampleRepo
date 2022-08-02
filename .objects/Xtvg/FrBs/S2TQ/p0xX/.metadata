@@ -1,0 +1,16 @@
+﻿{
+  "Id": "p0xXr9cSoUSs3iY65sexeQ",
+  "Reference": "vypFnnSxIEW-ivtHu0Ygzw/p0xXr9cSoUSs3iY65sexeQ",
+  "ParentRef": "vypFnnSxIEW-ivtHu0Ygzw/S2TQVyKJaky0pRAVWpWZWg",
+  "Name": "LinkedInShare",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-02-24T08:29:13.4473842Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-24T08:41:16.7668614Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

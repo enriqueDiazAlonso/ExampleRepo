@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://uipathhq.sprinklr.com/share/ADVOCACY_205_620e476630f6bc6f9eba4ce0?shareType=SHARE" ContentHash="HaO-1KH0xUCNVwtrFdDsgA" DesignTimeRectangle="679, 335, 24, 24" ElementType="Text" FriendlyName="''" FullSelectorArgument="&lt;webctrl aaname='' idx='2' parentid='root' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='' type='' parentid='root' tag='DIV' check:text='' /&gt;" Guid="c0efd305-3715-4842-a2e3-dce23821f7e1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath HQ' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="844, 336, 244, 23" ElementType="Text" FriendlyName="'Compartir una'" FullSelectorArgument="&lt;webctrl aaname='Compartir una publicación' parentid='root' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Compartir una publicación' parentid='root' tag='DIV' type='' check:text='Compartir una publicación' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1d-BT-J3ZcUOwUmzJkJj6SA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0UiKIFvfJUEW55dVdKw9knA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e755988d0b70cedf655d4e510a7c94c1.png" xmlns="">0M4dCYnNARUeijed5QkUq2w</imageRef>
+</TargetAnchorable>

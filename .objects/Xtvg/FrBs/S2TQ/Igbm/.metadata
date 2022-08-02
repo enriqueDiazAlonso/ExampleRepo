@@ -1,0 +1,16 @@
+﻿{
+  "Id": "IgbmM06xTUuLCrGIPsJ9yw",
+  "Reference": "vypFnnSxIEW-ivtHu0Ygzw/IgbmM06xTUuLCrGIPsJ9yw",
+  "ParentRef": "vypFnnSxIEW-ivtHu0Ygzw/S2TQVyKJaky0pRAVWpWZWg",
+  "Name": "ShareButton",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-02-24T08:27:03.5141861Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-24T08:48:57.1312519Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

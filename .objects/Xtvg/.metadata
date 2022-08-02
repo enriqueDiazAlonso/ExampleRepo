@@ -1,0 +1,14 @@
+﻿{
+  "Id": "XtvgyVo5-kq_1V--HIdwwQ",
+  "Reference": "vypFnnSxIEW-ivtHu0Ygzw/XtvgyVo5-kq_1V--HIdwwQ",
+  "Name": "Chrome: UiPath HQ app",
+  "Type": "App",
+  "Created": "2022-02-24T08:24:58.8043337Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-05T12:48:53.5290835Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

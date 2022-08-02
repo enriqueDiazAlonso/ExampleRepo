@@ -1,0 +1,16 @@
+﻿{
+  "Id": "PDqeSkG-N0yOJ2NFXyI0Pg",
+  "Reference": "vypFnnSxIEW-ivtHu0Ygzw/PDqeSkG-N0yOJ2NFXyI0Pg",
+  "ParentRef": "vypFnnSxIEW-ivtHu0Ygzw/S2TQVyKJaky0pRAVWpWZWg",
+  "Name": "CloseSharing2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-02-24T08:33:21.1500523Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-24T08:34:23.212841Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

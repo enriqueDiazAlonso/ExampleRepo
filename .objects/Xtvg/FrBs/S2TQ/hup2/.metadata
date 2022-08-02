@@ -1,0 +1,14 @@
+﻿{
+  "Id": "hup2sUOvgUC17NmL_wA-7Q",
+  "Reference": "vypFnnSxIEW-ivtHu0Ygzw/hup2sUOvgUC17NmL_wA-7Q",
+  "ParentRef": "vypFnnSxIEW-ivtHu0Ygzw/S2TQVyKJaky0pRAVWpWZWg",
+  "Name": "ElementToClick",
+  "Description": "Element to click with idx starting from 2  and adding 6",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-02-24T08:24:58.930904Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-24T08:24:58.930904Z"
+}
